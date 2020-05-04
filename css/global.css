@@ -416,10 +416,11 @@ margin-top:3px;
 #footer_bottom{
 padding-bottom:10px;
 padding-top:5px;
-background: #5a6c82;
+background: #011901;
   }
 .footer_bottom_1 p{
  color:#eee; 
+ font-size: 20px;
   }
 .footer_bottom_1 p a{
  color:#F1C232; 
@@ -433,6 +434,9 @@ background: #5a6c82;
 @media screen and (max-width : 767px){
 br{
  display:none; 
+  }
+  .footer_bottom_1 p{ 
+ font-size: 16px !important;
   }
 .space_left{
 padding-left:15px; 

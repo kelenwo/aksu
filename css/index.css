@@ -121,6 +121,12 @@ font-size:18px;
 /*********************center_home_end****************/
 
 @media screen and (max-width : 767px){
+  .hide-sm {
+    display: none !important;
+  }
+  .head h1 {
+    font-size: 20px !important;
+  }
 .center_home_1{
  text-align:justify;
   }

@@ -366,6 +366,9 @@ input,button,select,textarea {
 			.lead {
 			font-size:21px
 	}
+	.hides {
+		display: none !important;
+	}
 
 
 	}
