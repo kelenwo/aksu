@@ -122,13 +122,13 @@ font-size:18px;
 
 @media screen and (max-width : 767px){
 .center_home_1{
- text-align:center;
+ text-align:justify;
   }
 .center_home_2_inner  {
- text-align:center; 
+ text-align:justify; 
   }
 .center_home_2_inner_1 {
- text-align:center; 
+ text-align:justify; 
   }
 .center_home_2_inner_1_inner img{
  width:100%;
